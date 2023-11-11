@@ -38,7 +38,7 @@ export default function Top(){
           </Stack>
         </Button>
         <Button
-          href="../../public/Anderson-Martins-Curriculo.pdf"
+          href="../assets/Anderson-Martins-Curriculo.pdf"
           size="large"
           target="_blank"
           download
